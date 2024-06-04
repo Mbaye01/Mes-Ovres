@@ -1,0 +1,11 @@
+ici je partage quelques réalisation de mes projet.
+-Maquette site web
+-Application
+-Integration 
+-HTML , CSS et autre language de programation
+-Wireframe sur FIGMA
+-Version Mobile, Desktop, ipad et Tablette
+- Projet de collaboration......
+- email : mbayenkc@gmail.com
+- email : ibzembaye@gmail.com
+- Contact : 43404927 / 42025456
